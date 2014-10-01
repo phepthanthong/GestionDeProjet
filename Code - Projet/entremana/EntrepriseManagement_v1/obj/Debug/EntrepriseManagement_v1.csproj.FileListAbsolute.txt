@@ -1,0 +1,72 @@
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe.config
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\Database\entreprise.db
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.pdb
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\DbManager.dll
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\SQLite.Designer.dll
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.dll
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.Linq.dll
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\DbManager.pdb
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\SQLite.Designer.pdb
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.pdb
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.Linq.pdb
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.csprojResolveAssemblyReference.cache
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Employee.AddEditEmployee.resources
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Employee.ShowEmployee.resources
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Main.resources
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.MainPage.resources
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Project.AddEditProject.resources
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.Properties.Resources.resources
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.csproj.GenerateResource.Cache
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.exe
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.pdb
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe.manifest
+H:\My_Project\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.application
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.exe.manifest
+H:\My_Project\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.application
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe.config
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.exe
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.pdb
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Employee.AddEditEmployee.resources
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Employee.ShowEmployee.resources
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Main.resources
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.MainPage.resources
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Project.AddEditProject.resources
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.Properties.Resources.resources
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\Database\entreprise.db
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe.manifest
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.application
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.pdb
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\DbManager.dll
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\DbManager.pdb
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\bin\Debug\SQLite.Designer.pdb
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.exe.manifest
+C:\Users\Hieu\Desktop\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.application
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\Database\entreprise.db
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe.config
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe.manifest
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.application
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.exe
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\EntrepriseManagement_v1.pdb
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\DbManager.dll
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\DbManager.pdb
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\bin\Debug\SQLite.Designer.pdb
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Employee.AddEditEmployee.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Employee.ShowEmployee.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Main.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.MainPage.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.View.Project.AddEditProject.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.Properties.Resources.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.exe.manifest
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.application
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.exe
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\entremana\EntrepriseManagement_v1\obj\Debug\EntrepriseManagement_v1.pdb

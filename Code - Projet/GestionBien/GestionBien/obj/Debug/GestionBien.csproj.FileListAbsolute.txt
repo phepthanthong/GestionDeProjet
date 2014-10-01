@@ -1,0 +1,30 @@
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\GestionBien.exe.config
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\EmployeInfo.mdf
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\EmployeInfo_log.ldf
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\GestionBien.exe
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\GestionBien.pdb
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.Form1.resources
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.Properties.Resources.resources
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.exe
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.pdb
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\GestionBien.exe.manifest
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\bin\Debug\GestionBien.application
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.exe.manifest
+C:\Users\Hieu\Desktop\GestionBien\GestionBien\obj\Debug\GestionBien.application
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\GestionBien.exe.config
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.exe
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.pdb
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\EmployeInfo.mdf
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\EmployeInfo_log.ldf
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\GestionBien.exe.manifest
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\GestionBien.application
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\GestionBien.exe
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\bin\Debug\GestionBien.pdb
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.csprojResolveAssemblyReference.cache
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.Form1.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.Properties.Resources.resources
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.csproj.GenerateResource.Cache
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.exe.manifest
+C:\Users\Hieu\Desktop\GestionDeProjet\Code - Projet\GestionBien\GestionBien\obj\Debug\GestionBien.application
